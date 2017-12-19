@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\bucket3.png</Source>
+      <Name>Images\bucket3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\bucket3.xnb</Output>
+      <Time>2015-02-03T19:12:33.352791-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\burglar.png</Source>
+      <Name>Images\burglar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\burglar.xnb</Output>
+      <Time>2015-02-17T17:21:55.4987751-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bombspriteright.png</Source>
+      <Name>Images\bombspriteright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\bombspriteright.xnb</Output>
+      <Time>2015-02-04T23:12:45.1378357-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bombspriteleft.png</Source>
+      <Name>Images\bombspriteleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\bombspriteleft.xnb</Output>
+      <Time>2015-02-04T23:11:07.132005-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bucket1.png</Source>
+      <Name>Images\bucket1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\bucket1.xnb</Output>
+      <Time>2015-02-07T11:03:54.1467388-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bucket2.png</Source>
+      <Name>Images\bucket2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\bucket2.xnb</Output>
+      <Time>2015-02-07T11:03:29.9547205-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\menu.png</Source>
+      <Name>Images\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\menu.xnb</Output>
+      <Time>2015-02-04T10:28:13.6510212-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\mouse.png</Source>
+      <Name>Images\mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\mouse.xnb</Output>
+      <Time>2015-02-07T18:17:59.354776-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\instructions.jpg</Source>
+      <Name>Images\instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\instructions.xnb</Output>
+      <Time>2015-02-07T20:06:16.4409884-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\instructionsfullP2.png</Source>
+      <Name>Images\instructionsfullP2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\instructionsfullP2.xnb</Output>
+      <Time>2015-02-18T22:12:45.0219968-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bombcaught.png</Source>
+      <Name>Images\bombcaught</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\bombcaught.xnb</Output>
+      <Time>2015-02-08T14:43:13.5732157-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\scrollBtn.PNG</Source>
+      <Name>Images\scrollBtn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\scrollBtn.xnb</Output>
+      <Time>2015-02-09T11:37:16.0368315-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\instBtns.PNG</Source>
+      <Name>Images\instBtns</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\instBtns.xnb</Output>
+      <Time>2015-02-09T10:36:07.9218164-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\scrollbar.png</Source>
+      <Name>Images\scrollbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\scrollbar.xnb</Output>
+      <Time>2015-02-09T15:50:25.2090052-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\playbutton.png</Source>
+      <Name>Images\playbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\playbutton.xnb</Output>
+      <Time>2015-02-09T17:39:32.8586377-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\scoreFont.spritefont</Source>
+      <Name>Fonts\scoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Fonts\scoreFont.xnb</Output>
+      <Time>2015-02-07T19:00:06.0871628-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\bombtick.wav</Source>
+      <Name>Audio\bombtick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Audio\bombtick.xnb</Output>
+      <Time>2015-02-08T11:53:10.5505044-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\bombcatch.wav</Source>
+      <Name>Audio\bombcatch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Audio\bombcatch.xnb</Output>
+      <Time>2015-02-08T13:40:30.9858271-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\bombexplode.wav</Source>
+      <Name>Audio\bombexplode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Audio\bombexplode.xnb</Output>
+      <Time>2015-02-08T21:27:11.1942441-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\bombexplodefinal.wav</Source>
+      <Name>Audio\bombexplodefinal</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Audio\bombexplodefinal.xnb</Output>
+      <Time>2015-02-08T21:28:36.6327361-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\explodingAnimation.png</Source>
+      <Name>Images\explodingAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\explodingAnimation.xnb</Output>
+      <Time>2015-02-10T17:46:13.1909274-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\waterAnim.png</Source>
+      <Name>Images\waterAnim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\Images\waterAnim.xnb</Output>
+      <Time>2015-02-10T23:28:22.7530541-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E7F1CE53-B573-407E-93F5-AC897CAC9493}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 11\ICS4U1\Assignments\TalmorO_A1\Kaboom!\Kaboom!\Kaboom!\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-02-03T18:19:19.116389-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
